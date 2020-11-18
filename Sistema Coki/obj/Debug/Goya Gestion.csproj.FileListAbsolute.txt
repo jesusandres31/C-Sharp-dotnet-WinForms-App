@@ -1,0 +1,163 @@
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\obj\Debug\Goya Gestion.csprojAssemblyReference.cache
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\obj\Debug\Sistema_Coki.Properties.Resources.resources
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\obj\Debug\Goya Gestion.csproj.GenerateResource.cache
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\Sistema Coki.exe.config
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\Sistema Coki.exe
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\Sistema Coki.pdb
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\obj\Debug\Sistema_Coki.FLogin.resources
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\obj\Debug\Sistema Coki.exe
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\obj\Debug\Sistema Coki.pdb
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\obj\Debug\Sistema_Coki.FVendedor.resources
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\obj\Debug\Sistema_Coki.FSuperadministrador.resources
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\obj\Debug\Sistema_Coki.FAdministrador.resources
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\obj\Debug\Sistema_Coki.FSupervisor.resources
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\EntityFramework.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\EntityFramework.xml
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\obj\Debug\Goya Gestion.csproj.CopyComplete
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\obj\Debug\Sistema_Coki.Interfaces.SelectCliente.resources
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\obj\Debug\Sistema_Coki.Interfaces.SelectProducto.resources
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\EnvDTE.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\stdole.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\Microsoft.MSXML.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\obj\Debug\RdlCompile.cache
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\obj\Debug\RdlCompile.compiled
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\obj\Debug\Sistema_Coki.Reparto.resources
+C:\Users\jesus1\source\repos\Sistema Coki\Sistema Coki\obj\Debug\Sistema_Coki.Factura.resources
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\Sistema Coki.exe.config
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\Sistema Coki.exe
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\Sistema Coki.pdb
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\EntityFramework.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\EnvDTE.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\stdole.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\Microsoft.MSXML.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\EntityFramework.xml
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\obj\Debug\Goya Gestion.csprojAssemblyReference.cache
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\obj\Debug\Sistema_Coki.Factura.resources
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\obj\Debug\Sistema_Coki.FAdministrador.resources
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\obj\Debug\Sistema_Coki.FLogin.resources
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\obj\Debug\Sistema_Coki.FSuperadministrador.resources
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\obj\Debug\Sistema_Coki.FSupervisor.resources
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\obj\Debug\Sistema_Coki.FVendedor.resources
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\obj\Debug\Sistema_Coki.Interfaces.SelectCliente.resources
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\obj\Debug\Sistema_Coki.Interfaces.SelectProducto.resources
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\obj\Debug\Sistema_Coki.Properties.Resources.resources
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\obj\Debug\Sistema_Coki.Reparto.resources
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\obj\Debug\Goya Gestion.csproj.GenerateResource.cache
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\obj\Debug\Goya Gestion.csproj.CoreCompileInputs.cache
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\obj\Debug\Goya Gestion.csproj.CopyComplete
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\obj\Debug\Sistema Coki.exe
+C:\Users\jesus\Projects\C#-WinFormsAppCRUD\source\repos\Sistema Coki\Sistema Coki\obj\Debug\Sistema Coki.pdb

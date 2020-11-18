@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="GestionVentasModelStoreContainer" CdmEntityContainer="GestionVentasEntities">
+    <EntitySetMapping Name="clientes">
+      <EntityTypeMapping TypeName="GestionVentasModel.cliente">
+        <MappingFragment StoreEntitySet="cliente">
+          <ScalarProperty Name="idcliente" ColumnName="idcliente" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="tel" ColumnName="tel" />
+          <ScalarProperty Name="direccion" ColumnName="direccion" />
+          <ScalarProperty Name="estado" ColumnName="estado" />
+          <ScalarProperty Name="correo" ColumnName="correo" />
+          <ScalarProperty Name="dni" ColumnName="dni" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="factura_cabecera">
+      <EntityTypeMapping TypeName="GestionVentasModel.factura_cabecera">
+        <MappingFragment StoreEntitySet="factura_cabecera">
+          <ScalarProperty Name="idfactura" ColumnName="idfactura" />
+          <ScalarProperty Name="idcliente" ColumnName="idcliente" />
+          <ScalarProperty Name="idusuario" ColumnName="idusuario" />
+          <ScalarProperty Name="idtipoventa" ColumnName="idtipoventa" />
+          <ScalarProperty Name="fecha" ColumnName="fecha" />
+          <ScalarProperty Name="total" ColumnName="total" />
+          <ScalarProperty Name="estado" ColumnName="estado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="pedido_detalle">
+      <EntityTypeMapping TypeName="GestionVentasModel.pedido_detalle">
+        <MappingFragment StoreEntitySet="pedido_detalle">
+          <ScalarProperty Name="idpedido" ColumnName="idpedido" />
+          <ScalarProperty Name="idproducto" ColumnName="idproducto" />
+          <ScalarProperty Name="peso" ColumnName="peso" />
+          <ScalarProperty Name="cantidad" ColumnName="cantidad" />
+          <ScalarProperty Name="descuento" ColumnName="descuento" />
+          <ScalarProperty Name="subtotal" ColumnName="subtotal" />
+          <ScalarProperty Name="idfactura" ColumnName="idfactura" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="productoes">
+      <EntityTypeMapping TypeName="GestionVentasModel.producto">
+        <MappingFragment StoreEntitySet="producto">
+          <ScalarProperty Name="idproducto" ColumnName="idproducto" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+          <ScalarProperty Name="idproveedor" ColumnName="idproveedor" />
+          <ScalarProperty Name="stock" ColumnName="stock" />
+          <ScalarProperty Name="unidad" ColumnName="unidad" />
+          <ScalarProperty Name="precio" ColumnName="precio" />
+          <ScalarProperty Name="estado" ColumnName="estado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="proveedors">
+      <EntityTypeMapping TypeName="GestionVentasModel.proveedor">
+        <MappingFragment StoreEntitySet="proveedor">
+          <ScalarProperty Name="idproveedor" ColumnName="idproveedor" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="tel" ColumnName="tel" />
+          <ScalarProperty Name="estado" ColumnName="estado" />
+          <ScalarProperty Name="correo" ColumnName="correo" />
+          <ScalarProperty Name="dni" ColumnName="dni" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tipo_usuario">
+      <EntityTypeMapping TypeName="GestionVentasModel.tipo_usuario">
+        <MappingFragment StoreEntitySet="tipo_usuario">
+          <ScalarProperty Name="idtipousuario" ColumnName="idtipousuario" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tipo_venta">
+      <EntityTypeMapping TypeName="GestionVentasModel.tipo_venta">
+        <MappingFragment StoreEntitySet="tipo_venta">
+          <ScalarProperty Name="idtipoventa" ColumnName="idtipoventa" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="usuarios">
+      <EntityTypeMapping TypeName="GestionVentasModel.usuario">
+        <MappingFragment StoreEntitySet="usuario">
+          <ScalarProperty Name="idusuario" ColumnName="idusuario" />
+          <ScalarProperty Name="apeynom" ColumnName="apeynom" />
+          <ScalarProperty Name="tel" ColumnName="tel" />
+          <ScalarProperty Name="nomusuario" ColumnName="nomusuario" />
+          <ScalarProperty Name="contraseña" ColumnName="contraseña" />
+          <ScalarProperty Name="idtipousuario" ColumnName="idtipousuario" />
+          <ScalarProperty Name="estado" ColumnName="estado" />
+          <ScalarProperty Name="correo" ColumnName="correo" />
+          <ScalarProperty Name="dni" ColumnName="dni" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="factura" FunctionName="GestionVentasModel.Store.factura">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="GestionVentasModel.factura_Result">
+          <ScalarProperty Name="Cliente" ColumnName="Cliente" />
+          <ScalarProperty Name="direccion" ColumnName="direccion" />
+          <ScalarProperty Name="tel" ColumnName="tel" />
+          <ScalarProperty Name="dni" ColumnName="dni" />
+          <ScalarProperty Name="correo" ColumnName="correo" />
+          <ScalarProperty Name="cantidad" ColumnName="cantidad" />
+          <ScalarProperty Name="peso" ColumnName="peso" />
+          <ScalarProperty Name="descuento" ColumnName="descuento" />
+          <ScalarProperty Name="subtotal" ColumnName="subtotal" />
+          <ScalarProperty Name="Producto" ColumnName="Producto" />
+          <ScalarProperty Name="precio" ColumnName="precio" />
+          <ScalarProperty Name="unidad" ColumnName="unidad" />
+          <ScalarProperty Name="Vendedor" ColumnName="Vendedor" />
+          <ScalarProperty Name="dni1" ColumnName="dni1" />
+          <ScalarProperty Name="fecha" ColumnName="fecha" />
+          <ScalarProperty Name="total" ColumnName="total" />
+          <ScalarProperty Name="idfactura" ColumnName="idfactura" />
+          <ScalarProperty Name="Tipo" ColumnName="Tipo" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="mejores_clientes" FunctionName="GestionVentasModel.Store.mejores_clientes">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="GestionVentasModel.mejores_clientes_Result">
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="dni" ColumnName="dni" />
+          <ScalarProperty Name="cantidad" ColumnName="cantidad" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="mejores_fechas" FunctionName="GestionVentasModel.Store.mejores_fechas">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="GestionVentasModel.mejores_fechas_Result">
+          <ScalarProperty Name="fecha" ColumnName="fecha" />
+          <ScalarProperty Name="cantidad" ColumnName="cantidad" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="mejores_vendedores" FunctionName="GestionVentasModel.Store.mejores_vendedores">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="GestionVentasModel.mejores_vendedores_Result">
+          <ScalarProperty Name="apeynom" ColumnName="apeynom" />
+          <ScalarProperty Name="dni" ColumnName="dni" />
+          <ScalarProperty Name="cantidad" ColumnName="cantidad" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="producto_fecha" FunctionName="GestionVentasModel.Store.producto_fecha">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="GestionVentasModel.producto_fecha_Result">
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+          <ScalarProperty Name="cantidad" ColumnName="cantidad" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="producto_mas_vend" FunctionName="GestionVentasModel.Store.producto_mas_vend">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="GestionVentasModel.producto_mas_vend_Result">
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+          <ScalarProperty Name="cantidad" ColumnName="cantidad" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="producto_proveedor" FunctionName="GestionVentasModel.Store.producto_proveedor">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="GestionVentasModel.producto_proveedor_Result">
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+          <ScalarProperty Name="Proveedor" ColumnName="Proveedor" />
+          <ScalarProperty Name="cantidad" ColumnName="cantidad" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="RealizarBackUp" FunctionName="GestionVentasModel.Store.RealizarBackUp">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="GestionVentasModel.RealizarBackUp_Result">
+          <ScalarProperty Name="Exito" ColumnName="Exito" />
+          <ScalarProperty Name="Mensaje" ColumnName="Mensaje" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="reparto" FunctionName="GestionVentasModel.Store.reparto">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="GestionVentasModel.reparto_Result">
+          <ScalarProperty Name="Productos" ColumnName="Productos" />
+          <ScalarProperty Name="Peso" ColumnName="Peso" />
+          <ScalarProperty Name="unidad" ColumnName="unidad" />
+          <ScalarProperty Name="fecha" ColumnName="fecha" />
+          <ScalarProperty Name="Cantidad" ColumnName="Cantidad" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

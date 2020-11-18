@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="69c6921aee9b4e1aa3fdb95e99b502f8" Name="Diagram1">
+        <EntityTypeShape EntityType="GestionVentasModel.cliente" Width="1.5" PointX="3" PointY="5.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="GestionVentasModel.factura_cabecera" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="GestionVentasModel.pedido_detalle" Width="1.5" PointX="7.5" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="GestionVentasModel.producto" Width="1.5" PointX="5.25" PointY="12.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="GestionVentasModel.proveedor" Width="1.5" PointX="3" PointY="12.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="GestionVentasModel.tipo_usuario" Width="1.5" PointX="0.75" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GestionVentasModel.tipo_venta" Width="1.5" PointX="3" PointY="9.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="GestionVentasModel.usuario" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <AssociationConnector Association="GestionVentasModel.FK_factura_cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="GestionVentasModel.FK_factura_tipo" ManuallyRouted="false" />
+        <AssociationConnector Association="GestionVentasModel.FK_factura_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="GestionVentasModel.FK_pedido_factura" ManuallyRouted="false" />
+        <AssociationConnector Association="GestionVentasModel.FK_pedido_producto" ManuallyRouted="false" />
+        <AssociationConnector Association="GestionVentasModel.FK_producto_proveedor" ManuallyRouted="false" />
+        <AssociationConnector Association="GestionVentasModel.FK_usuario_tipo" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
